@@ -2,4 +2,4 @@
 Quête Wild
 
 ## Liste de fromage : 
-Emmental, chèvre, gouda, gorgonzola, brique
+Chèvre, emmental, brique, gouda
